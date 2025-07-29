@@ -15,28 +15,6 @@
     justify-content: space-evenly;
 }
 
-/* The amazon logo part of the navbar */
-
-.nav-logo {
-    height: 50px;
-    width : 100px;
-}
-
-.logo {
-    background-image: url("amazon.png");
-    background-size: cover;
-    height: 50px;
-    width : 100%;
-}
-
-.border {
-    border: 1.5px solid transparent;
-}
-
-.border:hover {
-    border: 1.5px solid white;
-}
-
 /* The location and deliver to part of the nav bar */
 
 .add-first {
@@ -294,14 +272,6 @@ ul a {
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-
-.logo {
-    background-image: url("amazon.png");
-    background-size: cover;
-    height: 50px;
-    width : 100px;
 }
 
 /* FINAL PANEL */
