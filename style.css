@@ -4,6 +4,15 @@
     border: border-box;
 }
 
+/**Making sure white borders appear when hovered on the option**/
+.border {
+    border: 1.5px solid transparent;
+}
+
+.border:hover {
+    border: 1.5px solid white;
+}
+
 /** MAKING THE NAVIGATION BAR**/
 
 .navbar {
